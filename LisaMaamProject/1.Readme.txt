@@ -1,0 +1,5 @@
+Maam If apache->config->.ini(extension-mysqli is not enabled)->please enable it.other wise it will not run.
+
+
+user tabel text contains query.(generate table with query)
+
