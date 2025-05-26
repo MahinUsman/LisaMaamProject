@@ -274,7 +274,7 @@ function caesar(text, key, enc = true) {
     .join('');
 }
 
-//Corrected Vernam Cipher (with key length check and modular arithmetic)
+//Vernam Cipher (key length check and modular arithmetic)
 function vernam(text, key, enc = true) {
   text = normalize(text);
   key = normalize(key);
